@@ -1,0 +1,7 @@
+opencv-python
+deepface
+librosa
+numpy
+tk
+sounddevice
+pillow
